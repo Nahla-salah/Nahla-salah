@@ -7,7 +7,7 @@
 <h2 align="left">About Me</h2>
 <p align="left">
 Hi! I'm <b>Nahla Salah</b>, a Full Stack Developer working with React, Next.js and Back-End .NET.  
-I love building scalable applications and learning new technologies from scratch.
+
 </p>
 
 ---
