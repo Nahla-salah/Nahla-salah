@@ -34,7 +34,7 @@ I specialize in <b>ASP.NET Core</b>, building scalable and secure REST APIs, and
   <li>Backend: C#, .NET, ASP.NET Core, Web API, Entity Framework Core</li>
   <li>Database: SQL Server, LINQ</li>
   <li>Architecture & Security: Onion Architecture, JWT Authentication</li>
-  <li>Tools: Git, GitHub, Swagger</li>
+  <li>Tools: Git, GitHub, Swagger ,Postman </li>
 </ul>
 
 ---
