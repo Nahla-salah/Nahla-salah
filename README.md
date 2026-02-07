@@ -14,7 +14,7 @@ I love building scalable applications and learning new technologies from scratch
 
 <h2 align="left">Back-End</h2>
 <p align="left">
-I specialize in <b>ASP.NET Core</b>, building scalable and secure REST APIs, and implementing Clean Architecture.
+I specialize in <b>ASP.NET Core</b>, building scalable and secure REST APIs, and implementing onion Architecture.
 </p>
 
 ---
